@@ -48,4 +48,3 @@ Execute each notebook.
 After executing, export each notebook to HTML.
 Commit and push your HTML files to your GitHub repo along with the executed notebooks. 
 Verify you have a professional README.md that introduces your GitHub repository and provides helpful information about your project. 
- 
